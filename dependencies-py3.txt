@@ -1,1 +1,4 @@
 # LIST YOUR PYTHON3 PACKAGES HERE
+pip==21.0.1
+dt-apriltags
+scipy==1.6.0
